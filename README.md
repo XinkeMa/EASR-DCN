@@ -6,7 +6,7 @@ we propose a weakly-supervised ROI-based registration approach named EASR-DCN. O
 Extensive experiments were performed on three MRI and one CT datasets to showcase the superior accuracy and deformation reduction efficacy of our EASR-DCN..
 
 
-<p align="center"><img width="100%" src="fig/detil.png" /></p>
+<p align="center"><img width="100%" src="fig/detil.pdf" /></p>
 
 ## Paper
 This repository provides the official tensorflow implementation of EASR-DCN in the following papers:
