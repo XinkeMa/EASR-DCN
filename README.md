@@ -1,8 +1,8 @@
 # EASR-DCN: Deformable Medical Image Registration with Effective Anatomical Structure Representation and Divide-and-Conquer Network
 
-[NEWS!!]**The [pytorch](https://github.com/YutingHe-list/PC-Reg-RT/tree/main/pytorch) version is opened now!**
+[Note!!]** The [pytorch](https://github.com/XinkeMa/EASR-DCN) version will be released soon and made publicly accessible! **
 
-we propose a weakly-supervised ROI-based registration approach named EASR-DCN. Our method represents medical images through effective ROIs and achieves independent alignment of these ROIs without requiring labels. Specifically, we first used a Gaussian mixture model for intensity analysis to represent images using multiple effective ROIs with distinct intensities. Furthermore, we propose a novel Divide-and-Conquer Network (DCN) that processes ROIs through separate channels to independently align their features. The resulting sub-deformation fields are seamlessly integrated to generate a comprehensive displacement vector field. 
+We propose a weakly-supervised ROI-based registration approach named EASR-DCN. Our method represents medical images through effective ROIs and achieves independent alignment of these ROIs without requiring labels. Specifically, we first used a Gaussian mixture model for intensity analysis to represent images using multiple effective ROIs with distinct intensities. Furthermore, we propose a novel Divide-and-Conquer Network (DCN) that processes ROIs through separate channels to independently align their features. The resulting sub-deformation fields are seamlessly integrated to generate a comprehensive displacement vector field. 
 Extensive experiments were performed on three MRI and one CT datasets to showcase the superior accuracy and deformation reduction efficacy of our EASR-DCN..
 
 
