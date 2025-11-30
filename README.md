@@ -13,8 +13,8 @@ This repository provides the official implementation of EASR-DCN in the followin
 
 **Deformable Medical Image Registration with Effective Anatomical Structure Representation and Divide-and-Conquer Network** <br/> 
 [Xinke Ma](https://scholar.google.com.hk/citations?user=RT_DBEUAAAAJ&hl=zh-CN&oi=ao), Yongsheng Pan, Qingjie Zeng, Mengkang Lu, Bolysbek Murat Yerzhanuly, Bazargul Matkerim, and [Yong Xia*](https://jszy.nwpu.edu.cn/en/yongxia.html) <br/>
-National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, School of Computer Science and Engineering, Northwestern Polytechnical University, Xi'an 710072, China. <br/>
-IEEE Journal of Biomedical And Health Informatics ([J-BHI](https://www.embs.org/jbhi/)) <br/>
+National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, School of Computer Science and Engineering, Northwestern Polytechnical University, Xi'an 710072, China. 
+<br/> The paper has been accepted by the IEEE Journal of Biomedical And Health Informatics ([J-BHI](https://www.embs.org/jbhi/)) <br/>
 [Paper](https://arxiv.org/abs/2506.19222) | [Code](https://github.com/XinkeMa/EASR-DCN)
 
 ## Available implementation
