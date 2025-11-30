@@ -9,7 +9,7 @@ Extensive experiments were performed on three MRI and one CT datasets to showcas
 <p align="center"><img width="100%" src="fig/detil.png" /></p>
 
 ## Paper
-This repository provides the official tensorflow implementation of EASR-DCN in the following papers:
+This repository provides the official implementation of EASR-DCN in the following papers:
 
 **Deformable Medical Image Registration with Effective Anatomical Structure Representation and Divide-and-Conquer Network** <br/> 
 [Xinke Ma](https://scholar.google.com.hk/citations?user=RT_DBEUAAAAJ&hl=zh-CN&oi=ao), Yongsheng Pan, Qingjie Zeng, Mengkang Lu, Bolysbek Murat Yerzhanuly, Bazargul Matkerim, and [Yong Xia*](https://jszy.nwpu.edu.cn/en/yongxia.html) <br/>
