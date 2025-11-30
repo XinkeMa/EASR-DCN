@@ -21,7 +21,7 @@ IEEE Journal of Biomedical And Health Informatics ([J-BHI](https://www.embs.org/
 - [pytorch/](https://github.com/XinkeMa/EASR-DCN)
 
 ## Citation
-If you use PC-Reg-RT for your research, please cite our papers:
+If you use EASR-DCN for your research, please cite our papers:
 ```
 @article{ma2025deformable,
   title={Deformable Medical Image Registration with Effective Anatomical Structure Representation and Divide-and-Conquer Network},
