@@ -23,14 +23,19 @@ National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data 
 ## Citation
 If you use EASR-DCN for your research, please cite our papers:
 ```
-@article{ma2025deformable,
-  title={Deformable Medical Image Registration with Effective Anatomical Structure Representation and Divide-and-Conquer Network},
+@ARTICLE{11275642,
   author={Ma, Xinke and Pan, Yongsheng and Zeng, Qingjie and Lu, Mengkang and Yerzhanuly, Bolysbek Murat and Matkerim, Bazargul and Xia, Yong},
-  journal={arXiv preprint arXiv:2506.19222},
-  year={2025}
-}
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={Deformable Medical Image Registration with Effective Anatomical Structure Representation and Divide-and-Conquer Network}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Image segmentation;Anatomical structure;Biomedical imaging;Decoding;Vectors;Accuracy;Magnetic resonance imaging;Image registration;Iterative methods;Transformers;Image Registration;Feature Alignment;Representation Learning;Weakly supervised Learning},
+  doi={10.1109/JBHI.2025.3639819}}
+
 ```
 
 ## Acknowledgments
 
-This work was supported in part by the National Key R&D Program of China (2022YFC2009903, 2022YFC2009900), the National Natural Science Foundation of China (Grants 62171377 and 92470101), the Fundamental Research Funds for the Central Universities (5000230376), and the Ningbo Clinical Research Center for Medical Imaging (2021L003; Open Project 2022LYKFZD06).
+This work was supported in part by the National Natural Science Foundation of China under Grant 6240012686 and Grant 92470101, in part by the National Key R&D Program of China under Grant 2022YFC2009903 and Grant 2022YFC2009900, and in part by the Fundamental Research Funds for the Central Universities under Grant 5000230376 and Grant D5000240304.
